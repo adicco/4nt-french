@@ -1,0 +1,13 @@
+---
+title:
+- type: main
+  text: Les Quatres Nobles Vérités
+description: Une compilation de sermons donnés sur le sujet des Quatres Nobles Vérités.
+author: Ajahn Sumedho
+creator: Ajahn Sumedho
+cover-image: cover.jpg
+rights: Amaravati Buddhist Monastery
+lang: fr-FR
+keywords: Ajahn Sumedho, Bouddhisme, Dharma, Quatres Nobles Vérités, Méditation, Spiritualité, Religion
+identifier: 1-870-205-10-3
+...
