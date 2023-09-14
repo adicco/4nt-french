@@ -4,6 +4,16 @@ section.titlepage h1 {
     padding-top: 4em;
 }
 
+section.titlepage h2 {
+    font-size: 1.1rem;
+    text-align: center;
+}
+
+section.titlepage h4 {
+    font-size: 0.95rem;
+    text-align: center;
+}
+
 h1 {
     text-align: center;
 }

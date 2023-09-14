@@ -15,7 +15,6 @@ pandoc \
 	03-ch02.md \
 	04-ch03.md \
 	05-ch04.md \
-	05-ch04.md \
 	98-glossaire.md \
 	99-copyright.md 
 

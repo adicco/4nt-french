@@ -22,10 +22,8 @@ $if(titlepage)$
 <section epub:type="titlepage" class="titlepage">
   <h1>Les Quatres Nobles Vérités</h1>
   <div class="space4"></div>
-  <div class="center">
-    <p><strong>Ajahn Sumedho</strong></p>
-    <p>Traduit de l'anglais par Tan Savako et Elisabeth Martin</p>
-  </div>
+  <h2>Ajahn Sumedho</h2>
+  <h4>Traduit de l'anglais par Tan Savako et Elisabeth Martin</h4>
 </section>
 $else$
 $if(coverpage)$

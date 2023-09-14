@@ -2,7 +2,7 @@
 
 Ce livret a été élaboré et édité à partir de discours donnés par le Vénérable Ajahn Sumedho à propos de l'enseignement central du Bouddha, à savoir que la souffrance de l'humanité peut être vaincue à l'aide de moyens spirituels. L'enseignement est transmis à travers les Quatre Nobles Vérités du Bouddha, exposées pour la première fois en 528 avant J.C. dans le Parc aux Cerfs à Sarnath, près de Varanasi, et a perduré depuis dans le monde Bouddhiste.
 
-Le Vénérable Ajahn Sumedho est un bhikkhu (moine mendiant) de la tradition du Bouddhisme Theravada.  Son ordination eut lieu en Thaïlande en 1966, où il fut instruit pendant dix ans. Il est à présent l'Abbé du Centre Bouddhiste d'Amaravati ainsi que l'enseignant et le guide spirituel tant de nombreux moines et nonnes Bouddhistes que de laïcs.
+Le Vénérable Ajahn Sumedho est un bhikkhu (moine mendiant) de la tradition du Bouddhisme Theravada. Son ordination eut lieu en Thaïlande en 1966, où il fut instruit pendant dix ans. Il est à présent l'Abbé du Centre Bouddhiste d'Amaravati ainsi que l'enseignant et le guide spirituel tant de nombreux moines et nonnes Bouddhistes que de laïcs.
 
 Ce livret a été mis à disposition grâce à l'engagement de nombreuses personnes pour le bien d'autrui.
 
