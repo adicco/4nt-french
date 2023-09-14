@@ -7,7 +7,7 @@ La Noble Vérité de l'Origine de la Souffrance
 La Noble Vérité de la Cessation de la Souffrance  
 La Noble Vérité de la Voie qui mène à la Cessation de la Souffrance.
 
-> – DN 16
+> *—DN 16*
 
 Le Dhammacakkappavattana Sutta, l'Enseignement du Bouddha sur les quatre Nobles Vérités, a été la référence principale que j'ai utilisée pour ma pratique depuis des années. C'est cet enseignement que nous utilisions dans notre monastère en Thaïlande. L'école du bouddhisme theravada considère ce Sutta comme la quintessence de l'enseignement du Bouddha. Il contient tout ce qui est nécessaire à la compréhension du Dhamma et à la réalisation de l'éveil.
 

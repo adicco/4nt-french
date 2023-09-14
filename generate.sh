@@ -8,6 +8,7 @@ pandoc \
 	--template epub.template \
 	--output "$OUTPUT" \
 	--css style.css \
+	--epub-embed-font=PalanquinDark-Regular.ttf \
 	title.txt \
 	00-preface.md \
 	01-intro.md \
