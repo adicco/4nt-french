@@ -1,44 +1,49 @@
-# ข้อมูลหนังสือ
+# Copyright {epub:type=copyright-page}
 
-**หนึ่งลมหายใจ** \
-**only one breath**
+Les Quatres Nobles Vérités  
+par Ajahn Sumedho
 
-ธรรมบรรยาย โดย พระเทพญาณวิเทศ (หลวงพ่อสุเมโธ)
+Publié par Amaravati Buddhist Monastery
 
-แปล/เรียบเรียง : ธัมมาภินันโท ภิกขุ
+Édition digitale 1.0
 
-สงวนลิขสิทธิ์ ห้ามตัดตอน คัดลอก ดัดแปลง หรือพิมพ์เพื่อจำหน่าย
+ISBN {isbn}
 
-หากประสงค์จัดพิมพ์เพื่อเป็นธรรมทาน โปรดติดต่อ
+Version digitale éditée et publiée en 2023
 
-เจ้าอาวาสวัดป่านานาชาติ บ้านบุ่งหวาย ตำบลบุ่งหวาย
+Copyright © Amaravati Buddhist Monastery 2023
 
-อำเภอวารินชำราบ จังหวัดอุบลราชธานี ๓๔๓๑๐
+Traducteurs: Savako Bhikkhu, Elisabeth Martin
 
-ออกแบบปกและรูปเล่ม อาคม บัวครอง
+Éditeur version digitale: Adicco Bhikkhu
 
-อนุเคราะห์ภาพหน้าปก : บริษัท เคิร์ฟอิมเมจ จำกัด
+Cet ouvrage est disponible en téléchargement gratuit sur:
 
-ภาพลายเส้น: ภีมภาณุรัศมิ์ นิรินทร์
+https://media.amaravati.org
 
-ภาพถ่าย : ศราวุฒิ กลิ่นกล้า
+image::cc-by-nc-nd.png[cc-by-nc-nd]
 
-ภาพวาด : เรวัติ รูปศรี
+Cette Œuvre est sous license Creative Commons CC BY-NC-ND 4.0
+Attribution - Pas d'Utilisation Commerciale - Pas de Modification 4.0 International
 
-พิมพ์ครั้งที่ ๒ : เมษายน ๒๕๖๓
+https://creativecommons.org/licenses/by-nc-nd/4.0/deed.fr
 
-จำนวนพิมพ์ : ๑๐,๐๐๐ เล่ม
+**Vous êtes autorisé à** :
 
-พิมพ์ที่ บริษัทโรงพิมพ์อักษรสัมพันธ์ (1987) จำกัด
+* Partager — copier, distribuer et communiquer le matériel par tous moyens et sous tous formats
 
-แขวงบางมด เขตทุ่งครุ กรุงเทพมหานคร ๑๐๑๔๐
+L'Offrant ne peut retirer les autorisations concédées par la licence tant que vous appliquez les termes de cette licence.
 
-หนังสืออิเล็กทรอนิกส์ฉบับนี้จัดทำเพื่อเผยแผ่ เมื่อปี พ.ศ.๒๕๖๕
+**Selon les conditions suivantes** :
 
-eBook Edition 1.0
+* Attribution — Vous devez créditer l'Œuvre, intégrer un lien vers la licence et indiquer si des modifications ont été effectuées à l'Oeuvre. Vous devez indiquer ces informations par tous les moyens raisonnables, sans toutefois suggérer que l'Offrant vous soutient ou soutient la façon dont vous avez utilisé son Oeuvre.
+* Pas d’Utilisation Commerciale — Vous n'êtes pas autorisé à faire un usage commercial de cette Oeuvre, tout ou partie du matériel la composant.
+* Pas de modifications — Dans le cas où vous effectuez un remix, que vous transformez, ou créez à partir du matériel composant l'Oeuvre originale, vous n'êtes pas autorisé à distribuer ou mettre à disposition l'Oeuvre modifiée.
 
-<div class="center">
+Pas de restrictions complémentaires — Vous n'êtes pas autorisé à appliquer des conditions légales ou des mesures techniques qui restreindraient légalement autrui à utiliser l'Oeuvre dans les conditions décrites par la licence.
 
-![](./images/backpage.jpg)
+**Notes**:
 
-</div>
+Vous n'êtes pas dans l'obligation de respecter la licence pour les éléments ou matériel appartenant au domaine public ou dans le cas où l'utilisation que vous souhaitez faire est couverte par une exception.
+
+Aucune garantie n'est donnée. Il se peut que la licence ne vous donne pas toutes les permissions nécessaires pour votre utilisation. Par exemple, certains droits comme les droits moraux, le droit des données personnelles et le droit à l'image sont susceptibles de limiter votre utilisation.

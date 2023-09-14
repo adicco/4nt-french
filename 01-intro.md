@@ -1,5 +1,4 @@
-Introduction
-===
+# Introduction
 
 > Que nous devions, toi et moi, voyager et peiner au cours de ce long périple, provient de notre incapacité à découvrir, pénétrer quatre vérités. Quelles sont-elles ? Ce sont :
 

@@ -1,2 +1,1 @@
-Glossaire
-===
+# Glossaire {epub:type=appendix}
