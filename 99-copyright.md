@@ -7,7 +7,7 @@ Publié par Amaravati Buddhist Monastery
 
 Édition digitale 1.0
 
-ISBN {isbn}
+ISBN 1-870-205-10-3
 
 Version digitale éditée et publiée en 2023
 
@@ -15,18 +15,18 @@ Copyright © Amaravati Buddhist Monastery 2023
 
 Traducteurs: Savako Bhikkhu, Elisabeth Martin
 
-Éditeur version digitale: Adicco Bhikkhu
+Éditeur version digitale: Adicco Bhikkhu (couverture: Phāsuko Bhikkhu)
 
 Cet ouvrage est disponible en téléchargement gratuit sur:
 
-https://media.amaravati.org
+[https://media.amaravati.org](https://media.amaravati.org)
 
-image::cc-by-nc-nd.png[cc-by-nc-nd]
+![](assets/by-nc-nd.png)
 
 Cette Œuvre est sous license Creative Commons CC BY-NC-ND 4.0
 Attribution - Pas d'Utilisation Commerciale - Pas de Modification 4.0 International
 
-https://creativecommons.org/licenses/by-nc-nd/4.0/deed.fr
+[https://creativecommons.org/licenses/by-nc-nd/4.0/deed.fr](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.fr)
 
 **Vous êtes autorisé à** :
 

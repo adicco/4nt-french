@@ -2,13 +2,13 @@
 title:
 - type: main
   text: Les Quatres Nobles Vérités
-description: Une compilation de sermons donnés sur le sujet des Quatres Nobles Vérités, avec un chapitre par Vérité.
+description: Enseignements terre à terre du maître de méditation Ajahn Sumedho sur le sujet des Quatres Nobles Vérités.
 author: Ajahn Sumedho
 date: 2023
 creator:
 - role: author
   text: Ajahn Sumedho
-cover-image: cover.jpg
+cover-image: assets/cover.jpg
 rights: © Amaravati Buddhist Monastery, CC BY-NC-ND 4.0
 lang: fr-FR
 keywords: Ajahn Sumedho, Bouddhisme, Dharma, Quatres Nobles Vérités, Méditation, Spiritualité, Religion
