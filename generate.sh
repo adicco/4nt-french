@@ -1,12 +1,15 @@
 #!/usr/bin/env bash
-KINDLEGEN_PATH="/home/adicco/Downloads/kindlegen"
-DEFAULT_VALUE="Ajahn_Sumedho_-_Les_Quatres_Nobles_Vérités_v1_0.epub"
-OUTPUT=${1:-$DEFAULT_VALUE}
-echo "generating $OUTPUT"
+KINDLEGEN_PATH="/home/adicco/kindlegen"
+BUILD_DIR="./build"
+FILENAME="Ajahn_Sumedho_-_Les_Quatres_Nobles_Vérités_v1_1.epub"
+OUTPUT=${1:-$FILENAME}
+echo "generating $BUILD_DIR/$OUTPUT"
+
+mkdir -p $BUILD_DIR
 
 pandoc \
 	--template epub.template \
-	--output "$OUTPUT" \
+	--output "$BUILD_DIR/$OUTPUT" \
 	--css style.css \
 	--epub-embed-font=assets/PalanquinDark-Regular.ttf \
 	title.txt \
@@ -19,6 +22,6 @@ pandoc \
 	98-glossaire.md \
 	99-copyright.md 
 
-epubcheck "$OUTPUT"
+epubcheck "$BUILD_DIR/$OUTPUT"
 
-$KINDLEGEN_PATH $OUTPUT -c1 -o ${OUTPUT%.epub}.mobi
+$KINDLEGEN_PATH $BUILD_DIR/$OUTPUT -c1 -o ${FILENAME%.epub}.mobi
